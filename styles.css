@@ -7,7 +7,7 @@
 
 body {
     font-size: 1rem;
-    font-family: 'Montserrat';
+    font-family: 'sans-serif';
 }
 
 header {
@@ -21,7 +21,7 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #33ff3f;
     font-weight: 600;
 }
 
@@ -135,7 +135,7 @@ h2 {
 }
 
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #F7FE5EE;
 }
 .menu-acessibilidade{
     position: fixed;
